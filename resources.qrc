@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>conf/fdConfigOptions.conf</file>
+        <file>conf/fdTestPatterns.conf</file>
+    </qresource>
+</RCC>
